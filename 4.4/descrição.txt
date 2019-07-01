@@ -1,0 +1,3 @@
+Codigo em fase beta, irá simular a compra de ingressos
+
+por enquanto foi usado apenas para testar os conhecimentos em herança e abstração de classes

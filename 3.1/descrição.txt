@@ -1,0 +1,6 @@
+Codigo de verificação de datas em python
+
+O codigo em questão recebe uma data e verifica se a mesma é válida, existente e ou referente a um ano bissexto
+
+>datas validas são aquelas q possui parametros validos (dias > 0 e <= 31) e/ou (mes > 0 e <= 12) etc
+>datas inexistentes são aquelas que nunca existirão (31/04) por exemplo

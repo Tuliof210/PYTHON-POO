@@ -1,0 +1,13 @@
+Codigo em python simulado um internet banking
+
+Dentre as opções é possivel:
+
+>Criar uma conta (corrente ou poupança)
+>Verificar o saldo de uma conta
+>Sacar de uma conta
+>Depositar em uma conta
+>Ver o historico de transações em uma conta
+>Listar contas cadastradas
+
+Apesar de simples o codigo implemente uma senha para se realizar operações na conta de um titular, e apresenta
+uma pouco de robustez ao impedir saque em contas sem saldo ou entrada de parametros invalidos
