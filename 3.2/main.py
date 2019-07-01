@@ -183,7 +183,7 @@ while op != "8":
         Saldo_Conta(L_Co, L_Po)
 
     elif op == "6":
-        print("\nLISTA DE UMA CONTAS\n================================")
+        print("\nLISTAGEM DE CONTAS\n================================")
         Lista_Contas(L_Co, L_Po)
 
     elif op == "7":
