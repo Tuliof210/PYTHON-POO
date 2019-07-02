@@ -11,4 +11,4 @@ class Normal(Ingresso):
         return self._price
 
     def Imprimir(self):
-        print("\nTIPO: {}\nVALOR: R$ {}".format(self._tipo, self.Price()))
+        print("\nTIPO: {} | VALOR: R$ {}".format(self._tipo, self.Price()))

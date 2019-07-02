@@ -11,4 +11,4 @@ class Superior(Vip):
         return 50
 
     def Imprimir(self):
-        print("\nTIPO: {}\nAREA: {}\nVALOR: {}".format(self._tipo, self._area, self.Price()))
+        print("\nTIPO: {}\nAREA: {} | VALOR: {}".format(self._tipo, self._area, self.Price()))

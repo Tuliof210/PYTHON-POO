@@ -48,7 +48,7 @@ class Conta:
                 if float(d) < 1:
                     print("\nNão é possivel realizar depositos com valor inferior a R$ 1,00")
                 else:
-                    self._saldo+=float(d)
+                    self._saldo+=float(d) #valor+=5 || valor = valor + 5 
                     self._historico+=[float(d)]
                     print("\nDeposito de R$ {} realizado com sucesso".format("%.2f"%float(d)))
 
